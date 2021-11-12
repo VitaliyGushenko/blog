@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "blogdatebase": {
+      "hosting": {
+        "blog": [
+          "blogdatebase"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "blogdatebase"
+  }
+}
